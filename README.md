@@ -24,11 +24,11 @@ VibeOps provides the structure, guidelines, and tools needed to mitigate these r
 
 Below are the eight foundational pillars of VibeOps, with links to available resources for each pillar.
 
-### 1. Trustworthy MCP Repository
+### 1. [Trustworthy MCP Repository](pillar-1-trustworthy-mcp-repository/Pillar.md)
 
 A centralized source for secure, standardized Model Context Providers (MCPs) that ensure consistent and safe results when AI accesses sensitive systems or data.
 
-### 2. Golden Rules
+### 2. [Golden Rules](pillar-2-golden-rules/Pillar.md)
 
 Non-negotiable principles that all generated code must follow, ensuring alignment with quality, security, and ethical standards.
 
@@ -37,30 +37,30 @@ Non-negotiable principles that all generated code must follow, ensuring alignmen
 - [Developer Experience Rules](pillar-2-golden-rules/rules/DevXP-rules.md) - Rules for improving developer experience
 - [Security Operations Rules](pillar-2-golden-rules/rules/SecOps-rules.md) - Security best practices for AI-assisted development
 
-### 3. Model Task Assignment
+### 3. [Model Task Assignment](pillar-3-model-task-assignment/Pillar.md)
 
 Guidelines for selecting the appropriate LLM for different coding tasks, balancing capability, cost, and context requirements.
 
-### 4. Reasoning Guardrails
+### 4. [Reasoning Guardrails](pillar-4-reasoning-guardrails/Pillar.md)
 
 Mechanisms to analyze prompts and responses for security issues or hallucinations before they reach production.
 
-### 5. Agent Success Criteria & KPIs
+### 5. [Agent Success Criteria & KPIs](pillar-5-agent-success-criteria-kpis/Pillar.md)
 
 Metrics to evaluate the effectiveness of human-LLM collaboration and measure the actual value added.
 
-### 6. Agent Observability
+### 6. [Agent Observability](pillar-6-agent-observability/Pillar.md)
 
 Comprehensive logging of interactions for debugging, auditing, pattern analysis, and continuous improvement.
 
 **Available Resources:**
 - [AgentLens VS Code Extension](pillar-6-agent-observability/tools/VSCodePlugin.md) - A VS Code extension concept for logging and analyzing AI agent interactions
 
-### 7. Custom Model Interaction Rules
+### 7. [Custom Model Interaction Rules](pillar-7-custom-model-interaction-rules/Pillar.md)
 
 Protocols governing how tools interact with customized, fine-tuned, or enterprise-specific models.
 
-### 8. Enterprise-enforced Responsible Coding Guardrails
+### 8. [Enterprise-enforced Responsible Coding Guardrails](pillar-8-enterprise-enforced-responsible-coding-guardrails/Pillar.md)
 
 Implementation of security, privacy, and quality safeguards to ensure code meets organizational standards.
 
