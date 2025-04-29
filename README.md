@@ -24,7 +24,7 @@ VibeOps provides the structure, guidelines, and tools needed to mitigate these r
 
 Below are the eight foundational pillars of VibeOps, with links to available resources for each pillar.
 
-### 1. [Trustworthy MCP Repository](pillar-1-trustworthy-mcp-repository/Pillar.md)
+### 1. [Trustworthy MCP Repository](pillar-1-trustworthy-mcp/Pillar.md)
 
 A centralized source for secure, standardized Model Context Providers (MCPs) that ensure consistent and safe results when AI accesses sensitive systems or data.
 
@@ -45,7 +45,7 @@ Guidelines for selecting the appropriate LLM for different coding tasks, balanci
 
 Mechanisms to analyze prompts and responses for security issues or hallucinations before they reach production.
 
-### 5. [Agent Success Criteria & KPIs](pillar-5-agent-success-criteria-kpis/Pillar.md)
+### 5. [Agent Success Criteria & KPIs](pillar-5-success-criteria-kpis/Pillar.md)
 
 Metrics to evaluate the effectiveness of human-LLM collaboration and measure the actual value added.
 
@@ -60,7 +60,7 @@ Comprehensive logging of interactions for debugging, auditing, pattern analysis,
 
 Protocols governing how tools interact with customized, fine-tuned, or enterprise-specific models.
 
-### 8. [Enterprise-enforced Responsible Coding Guardrails](pillar-8-enterprise-enforced-responsible-coding-guardrails/Pillar.md)
+### 8. [Enterprise-enforced Responsible Coding Guardrails](pillar-8-responsible-coding-guardrails/Pillar.md)
 
 Implementation of security, privacy, and quality safeguards to ensure code meets organizational standards.
 
